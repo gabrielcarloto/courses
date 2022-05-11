@@ -1,0 +1,3 @@
+[submodule "alurabank"]
+	path = alurabank
+	url = https://github.com/gabrielcarloto/alurabank.git
