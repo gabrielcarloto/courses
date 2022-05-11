@@ -4,7 +4,7 @@
 
 This repository has all the Alura's courses projects I've taken.
 
-- [AluraBank](/alurabank)
+- [AluraBank](https://github.com/gabrielcarloto/alurabank/)
   - Typescript course.
 - [Aluroni](/aluroni)
   - React Router course.
