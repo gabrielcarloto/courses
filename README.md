@@ -15,6 +15,11 @@ This repository has all the projects of courses I've taken.
 - [HZC](/alura/HZC)
   - CSS Flexbox and Grid course.
 
+### Next Level Week - Rocket Seat
+
+- [Feedget](/nlw/feedback-widget)
+  - An accessible feedback widget component for web and mobile.
+
 ### Youtube
 
 - [Next Auth demo](/youtube/next-auth-demo)

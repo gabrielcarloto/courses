@@ -7,3 +7,6 @@
 [submodule "youtube/todo-app"]
 	path = youtube/todo-app
 	url = https://github.com/gabrielcarloto/todo-app.git
+[submodule "nlw/feedback-widget"]
+	path = nlw/feedback-widget
+	url = https://github.com/gabrielcarloto/feedback-widget.git
