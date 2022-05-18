@@ -20,6 +20,11 @@ This repository has all the projects of courses I've taken.
 - [Feedget](/nlw/feedback-widget)
   - An accessible feedback widget component for web and mobile.
 
+### Wesbos
+
+- [JS30](/wesbos/javascript-30)
+  - 30 day vanilla JS coding challenge.
+
 ### Youtube
 
 - [Next Auth demo](/youtube/next-auth-demo)

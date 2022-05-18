@@ -18,6 +18,11 @@ Esse repositório contém os projetos de cursos da Alura que fiz.
 - [Feedget](/nlw/feedback-widget)
   - Um componente de widget para feedbacks acessível para web e mobile.
 
+### Wesbos
+
+- [JS30](/wesbos/javascript-30)
+  - Desafio de 30 dias usando JS puro.
+
 ### Youtube
 
 - [Next Auth demo](/youtube/next-auth-demo)
