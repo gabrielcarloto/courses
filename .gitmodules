@@ -1,3 +1,9 @@
-[submodule "alurabank"]
-	path = alurabank
+[submodule "alura/alurabank"]
+	path = alura/alurabank
 	url = https://github.com/gabrielcarloto/alurabank.git
+[submodule "youtube/next-auth-demo"]
+	path = youtube/next-auth-demo
+	url = https://github.com/gabrielcarloto/next-auth-demo.git
+[submodule "youtube/todo-app"]
+	path = youtube/todo-app
+	url = https://github.com/gabrielcarloto/todo-app.git
