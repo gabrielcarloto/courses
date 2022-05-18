@@ -20,4 +20,4 @@ This repository has all the projects of courses I've taken.
 - [Next Auth demo](/youtube/next-auth-demo)
   - Next Auth demo, by Lucas Nhimi.
 - [Todo App](/youtube/todo-app)
-  - SWR demo, by Lucas Nhimi.
+  - Next.js, Prisma and Planetscale demo, by Lucas Nhimi.

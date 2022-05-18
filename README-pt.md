@@ -18,4 +18,4 @@ Esse repositório contém os projetos de cursos da Alura que fiz.
 - [Next Auth demo](/youtube/next-auth-demo)
   - Demonstração do Next Auth, por Lucas Nhimi.
 - [Todo App](/youtube/todo-app)
-  - Demonstração do SWR, por Lucas Nhimi.
+  - Demonstração do Next.js, Prisma e Planetscale, por Lucas Nhimi.
