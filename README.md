@@ -19,6 +19,8 @@ This repository has all the projects of courses I've taken.
 
 - [Feedget](/rocket-seat/nlw/feedback-widget)
   - An accessible feedback widget component for web and mobile.
+- [Event Platform](/rocket-seat/event-platform)
+  - An event platform that uses GraphQL.
 
 ### Wesbos
 

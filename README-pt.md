@@ -17,6 +17,8 @@ Esse repositório contém os projetos de cursos da Alura que fiz.
 
 - [Feedget](/rocket-seat/nlw/feedback-widget)
   - Um componente de widget para feedbacks acessível para web e mobile.
+- [Event Platform](/rocket-seat/event-platform)
+  - Uma plataforma de eventos que usa GraphQL.
 
 ### Wesbos
 

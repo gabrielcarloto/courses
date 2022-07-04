@@ -13,3 +13,6 @@
 [submodule "wesbos/javascript-30"]
 	path = wesbos/javascript-30
 	url = https://github.com/gabrielcarloto/javascript-30.git
+[submodule "rocket-seat/event-platform"]
+	path = rocket-seat/event-platform
+	url = https://github.com/gabrielcarloto/event-platform.git
