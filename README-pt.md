@@ -15,7 +15,7 @@ Esse repositório contém os projetos de cursos da Alura que fiz.
 
 ### Next Level Week - Rocket Seat
 
-- [Feedget](/nlw/feedback-widget)
+- [Feedget](/rocket-seat/nlw/feedback-widget)
   - Um componente de widget para feedbacks acessível para web e mobile.
 
 ### Wesbos
