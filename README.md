@@ -21,6 +21,10 @@ This repository has all the projects of courses I've taken.
   - An accessible feedback widget component for web and mobile.
 - [Event Platform](/rocket-seat/event-platform)
   - An event platform that uses GraphQL.
+- Habit Tracker: full stack app written in React and Typescript.
+  - [Web](https://github.com/gabrielcarloto/nlw-setup-web)
+  - [Mobile](https://github.com/gabrielcarloto/nlw-setup-mobile)
+  - [Server](https://github.com/gabrielcarloto/nlw-setup-server)
 
 ### Wesbos
 

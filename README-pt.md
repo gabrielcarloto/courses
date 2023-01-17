@@ -19,6 +19,10 @@ Esse repositório contém os projetos de cursos da Alura que fiz.
   - Um componente de widget para feedbacks acessível para web e mobile.
 - [Event Platform](/rocket-seat/event-platform)
   - Uma plataforma de eventos que usa GraphQL.
+- Habit Tracker: rastreador de hábitos full stack feito com React e Typescript.
+  - [Web](https://github.com/gabrielcarloto/nlw-setup-web)
+  - [Mobile](https://github.com/gabrielcarloto/nlw-setup-mobile)
+  - [Server](https://github.com/gabrielcarloto/nlw-setup-server)
 
 ### Wesbos
 
